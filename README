@@ -1,0 +1,2 @@
+This script will run anywhere that can run perl and has LWP::UserAgent XML::Simple and Net::Telnet - it will then connect to a Roku SoundBridge and display the weather forcast for that day.
+TODO: Create config file is feeds from
